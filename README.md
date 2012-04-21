@@ -16,7 +16,7 @@ Now run `bundle install`.
 
 ### Rails 3.0
 
-This gem adds a single generator to Rails 3, `jqtree:install`.
+This gem adds a single generator to Rails 3, `jq_tree:install`.
 
 Running the generator will copy over the assets to your assets to your public directory.
 
