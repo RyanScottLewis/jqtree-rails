@@ -31,7 +31,7 @@ Simply the following to `app/assets/javascripts/application.js`:
 And the following to `app/assets/stylesheets/application.css`:
 
     /*
-     * require jqtree
+     *= require jqtree
      */
 
 ## saveState

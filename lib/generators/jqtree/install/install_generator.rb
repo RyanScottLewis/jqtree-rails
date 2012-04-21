@@ -30,7 +30,7 @@ else
           say_status("deprecated", "You are using Rails 3.1 or the asset pipeline enabled, so this generator is not needed.")
           say_status("", "The necessary files are already in your asset pipeline.")
           say_status("", "Just add `//= require tree.jquery` to your app/assets/javascripts/application.js")
-          say_status("", "and add `/* require jqtree */` to your app/assets/stylesheets/application.css")
+          say_status("", "and add `/*= require jqtree */` to your app/assets/stylesheets/application.css")
           say_status("", "If you do not want the asset pipeline enabled, you may turn it off in application.rb and re-run this generator.")
           # ok, nothing
         end
