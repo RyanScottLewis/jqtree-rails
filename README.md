@@ -4,7 +4,7 @@ Adds [jqTree](https://github.com/mbraak/jqTree) to the Rails 3 asset pipeline.
 
 ## Installation
 
-In your Gemfile, add this line:
+In your Gemfile, add the following lines:
 
 ```ruby
 gem :assets do
