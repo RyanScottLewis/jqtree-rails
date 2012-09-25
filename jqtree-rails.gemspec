@@ -15,6 +15,8 @@ Gem::Specification.new do |s|
 
   s.add_dependency "railties", ">= 3.2.0", "< 5.0"
   s.add_dependency "thor",     "~> 0.14"                                            # TODO: Find out why this is needed
+  
+  s.add_development_dependency "grit", "~> 2.5"
 
   s.files        = `git ls-files`.split("\n")
   s.executables  = `git ls-files -- bin/*`.split("\n").map { |f| File.basename(f) } # TODO: Remove
