@@ -1,3 +1,4 @@
+gem 'version', '~> 1.0' # Ugly, but works!
 require 'version'
 
 module JqTree
