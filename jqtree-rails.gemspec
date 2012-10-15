@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ryan Scott Lewis", "Mario Uher"]                                # TODO:
   s.email       = ["c00lryguy@gmail.com", "uher.mario@gmail.com"]                   #   Pull from Git repo (see f.files)
-  s.homepage    = "http://https://github.com/c00lryguy/#{s.name}"
+  s.homepage    = "https://github.com/c00lryguy/#{s.name}"
   s.summary     = "Use jqTree with Rails 3"
   s.description = "This gem provides jqTree assets for your Rails 3 application."
 
