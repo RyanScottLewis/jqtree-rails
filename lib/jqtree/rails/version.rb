@@ -1,9 +1,6 @@
-gem 'version', '~> 1.0' # Ugly, but works!
-require 'version'
-
 module JqTree
   module Rails
-    VERSION = Version.current
+    VERSION = "0.1.4.2"
     JQTREE_VERSION = "0.14"
   end
 end
