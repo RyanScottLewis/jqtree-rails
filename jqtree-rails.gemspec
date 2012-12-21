@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/jqtree/rails/version', __FILE__)
+require './lib/jqtree/rails/version'
 
 Gem::Specification.new do |s|
   s.name        = 'jqtree-rails'
@@ -16,5 +16,4 @@ Gem::Specification.new do |s|
 
   s.add_dependency "railties", ">= 3.2.0", "< 5.0"
   s.add_dependency "thor",     "~> 0.14"
-  s.add_dependency "version",  "~> 1.0"
 end
