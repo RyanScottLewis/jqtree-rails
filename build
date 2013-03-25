@@ -1,0 +1,3 @@
+cp jqTree/jqtree-circle.png vendor/assets/images
+cp jqTree/tree.jquery.js vendor/assets/javascripts
+cp jqTree/jqtree.css vendor/assets/stylesheets
