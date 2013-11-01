@@ -4,6 +4,7 @@ require './lib/jqtree/rails/version'
 Gem::Specification.new do |s|
   s.name        = 'jqtree-rails'
   s.version     = JqTree::Rails::VERSION
+  s.license     = 'MIT'
   s.authors     = ['Ryan Scott Lewis', 'Mario Uher']
   s.email       = ['ryan@rynet.us', 'uher.mario@gmail.com']
   s.homepage    = 'https://github.com/RyanScottLewis/jqtree-rails'
